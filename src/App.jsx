@@ -1,10 +1,9 @@
+import React from 'react';
 import InteractiveCalendar from './InteractiveCalendar';
 
 function App() {
   return (
-    <div>
-      <InteractiveCalendar />
-    </div>
+    <InteractiveCalendar />
   );
 }
 
